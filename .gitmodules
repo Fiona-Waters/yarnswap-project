@@ -1,0 +1,6 @@
+[submodule "YarnSwap"]
+	path = YarnSwap
+	url = git@github.com:Fiona-Waters/YarnSwap.git
+[submodule "YarnSwapFE"]
+	path = YarnSwapFE
+	url = git@github.com:Fiona-Waters/YarnSwapFE.git
